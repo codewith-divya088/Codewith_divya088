@@ -9,7 +9,7 @@ This repository is part of my coding journey where I’ll share:
 - 🚀 Internship-ready projects
 
 📌 Stay tuned for exciting updates!
-#Codewith_divya088#
+#Codewith_divya088
 ---
 
 ### 🚀 Tech Stack I'm Working With:
